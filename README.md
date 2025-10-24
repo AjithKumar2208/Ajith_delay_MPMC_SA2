@@ -53,7 +53,8 @@ Continue toggling P0.1 and generating a 200 µs delay indefinitely.
 
 ## FLOWCHART
 
-![WhatsApp Image 2025-10-24 at 15 28 51_7e7044f7](https://github.com/user-attachments/assets/c02a6043-12ed-47a2-9d8c-110f8a9c5a43)
+<img width="750" height="900" alt="image" src="https://github.com/user-attachments/assets/680e4763-9da2-406a-bb87-c2cc4a33e9a6" />
+
 
 ---
 
